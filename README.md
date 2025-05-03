@@ -47,8 +47,6 @@ Multiple machine learning models were trained and evaluated:
 ### Model Evaluation
 Model performance was evaluated using key classification metrics:
 - **Accuracy**
-- **Precision**
-- **Recall**
 - **F1-Score**
 
 ### Model Selection
